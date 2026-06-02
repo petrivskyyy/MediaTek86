@@ -96,6 +96,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="bddmanager\BddManager.cs" />
+    <Compile Include="modele\Absence.cs" />
+    <Compile Include="modele\Motif.cs" />
+    <Compile Include="modele\Personnel.cs" />
+    <Compile Include="modele\Services.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -124,7 +128,6 @@
   <ItemGroup>
     <Folder Include="controleur\" />
     <Folder Include="dal\" />
-    <Folder Include="modele\" />
     <Folder Include="vue\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
