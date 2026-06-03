@@ -86,7 +86,7 @@ Le projet a été construit progressivement, chaque étape étant sauvegardée p
 
 ## Liens
 
-- Compte rendu d'activité (PDF) : *[](https://github.com/petrivskyyy/MediaTek86/blob/master/Compte_Rendu_MediaTek86.pdf)*
+- Compte rendu d'activité (PDF) : https://github.com/petrivskyyy/MediaTek86/blob/master/Compte_Rendu_MediaTek86.pdf)
 
 ## Auteur
 
