@@ -64,14 +64,25 @@ L'application est organisée en packages :
 
 ## Étapes de construction (commits)
 
-| Commit | Description |
-|--------|-------------|
-| #1 | Initialisation du projet et structure MVC |
-| #2 | Codage de la partie Vue (interfaces) |
-| #3 | Ajout BddManager, couche dal et modèle métier |
-| #4 | Fonctionnalités CU1 à CU8 et connexion BDD |
-| #5 | Génération de la documentation technique |
-| #6 | Création de l'installateur |
+Le projet a été construit progressivement, chaque étape étant sauvegardée par un commit explicite sur le dépôt distant.
+
+| Commit  | Description | Étape |
+|---------|-------------|-------|
+| da5a4a4 | Ajout des fichiers .gitattributes et .gitignore | Initialisation |
+| 84a25a8 | Ajout des fichiers du projet (structure MVC) | Étape 2 |
+| 0fc5924 | Modèle métier (classes Service, Personnel, Motif, Absence) | Étape 3 |
+| b077140 | Ajout de la couche dal et du contrôleur | Étape 3 |
+| bd3ddf4 | Ajout des fenêtres Windows Forms (partie Vue) | Étape 2 |
+| 9762f56 | Ajout du fichier App.config (chaîne de connexion) | Étape 3 |
+| 4f2c2f9 | Fonctionnalités opérationnelles (CU1 à CU8) et connexion BDD | Étape 4 |
+| 811b253 | Création de l'installateur (Setup Project) | Étape 5 |
+| c22f629 | Génération de la documentation technique | Étape 3 |
+| 1d15735 | Création du script SQL complet (mediatek86.sql) | Étape 5 |
+| f613616 | Ajout des fichiers (documentation, ressources) | Étape 5 |
+| cd22d1a | Rédaction du README | Étape 5 |
+| 9d29e1c | Mise à jour du README | Étape 5 |
+
+> Le développement a suivi les étapes de l'atelier : préparation de la base de données, structuration MVC et codage de la Vue, codage du modèle et de la couche d'accès, implémentation des 8 cas d'utilisation, puis déploiement (installateur, documentation, README).
 
 ## Liens
 
