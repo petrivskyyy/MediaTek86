@@ -56,6 +56,13 @@ L'application est organisée en packages :
 - Mot de passe : **motdepasse**
 
 ## Interfaces
+<img width="757" height="366" alt="2026-06-03 21 35 08" src="https://github.com/user-attachments/assets/8a81581a-8213-469b-bc2b-8ce97acce3de" />
+<img width="755" height="360" alt="2026-06-03 21 35 03" src="https://github.com/user-attachments/assets/f77e2d7a-218f-4750-9b67-4b9d33afaee9" />
+<img width="387" height="333" alt="2026-06-03 21 34 57" src="https://github.com/user-attachments/assets/923b5a35-9bc4-4587-aa12-3e3301b3f775" />
+<img width="385" height="330" alt="2026-06-03 21 34 52" src="https://github.com/user-attachments/assets/38512f7c-8a98-403c-9798-cfa43bcc3710" />
+<img width="215" height="137" alt="2026-06-03 21 34 40" src="https://github.com/user-attachments/assets/096c8238-69cb-413a-9466-9b936e772808" />
+<img width="384" height="233" alt="2026-06-03 21 34 34" src="https://github.com/user-attachments/assets/9cad90bf-50dd-4033-8458-1bff4a6a1b3e" />
+<img width="784" height="408" alt="2026-06-03 21 34 17" src="https://github.com/user-attachments/assets/1022a4c6-3b87-49e5-9642-2781dd867a84" />
 
 
 
