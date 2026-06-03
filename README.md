@@ -57,11 +57,10 @@ L'application est organisée en packages :
 
 ## Interfaces
 
-*(captures/connexion.png, captures/accueil.png, captures/personnel.png, captures/absence.png)*
+
 
 ## Diagramme de paquetages
 
-*(captures/diagramme_paquetages.png)*
 
 ## Étapes de construction (commits)
 
@@ -82,4 +81,4 @@ L'application est organisée en packages :
 
 ## Auteur
 
-Étudiant BTS SIO (SLAM) — Atelier de Professionnalisation 2.
+Étudiant Maksym PETRIV BTS SIO (SLAM) — Atelier de Professionnalisation 2.
